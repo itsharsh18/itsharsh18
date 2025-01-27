@@ -11,3 +11,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=itsharsh18)](https://github.com/ryo-ma/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsharsh18&show_icons=true&theme=radical)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsharsh18)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsharsh18)](https://git.io/streak-stats)
