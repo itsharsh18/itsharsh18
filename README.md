@@ -1,5 +1,5 @@
 ## Hi there 👋
-  [![MasterHead](https://ibb.co/cXP5X32)](https://github.com/itsharsh18)
+  [![MasterHead](https://i.ibb.co/93JX3gy/banner.png)](https://github.com/itsharsh18)
 
 - 🔭 I’m currently working on MERN and NextJs 
 - 🌱 I’m currently learning TensorFlow JS
