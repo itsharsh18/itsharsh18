@@ -8,5 +8,4 @@
                         +91-9109605488
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Firefox's logo isn't a fox—it's actually a red panda
-- https://github-profile-trophy.vercel.app/?username=itsharsh18-ma&theme=monokai
 [![trophy](https://github-profile-trophy.vercel.app/?username=itsharsh18)](https://github.com/ryo-ma/github-profile-trophy)
