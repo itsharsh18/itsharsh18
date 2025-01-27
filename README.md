@@ -9,7 +9,8 @@
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Firefox's logo isn't a fox—it's actually a red panda
 
-  
+  [![MasterHead](your image link)](your GitHub link)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=itsharsh18)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=itsharsh18&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
