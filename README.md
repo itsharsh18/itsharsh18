@@ -18,8 +18,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsharsh18)](https://git.io/streak-stats)
 
-<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<!-- Markdown --rhis >
+
 
