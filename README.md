@@ -1,7 +1,7 @@
 ## Hi there 👋
 
   [![MasterHead](https://i.ibb.co/93JX3gy/banner.png)](https://github.com/itsharsh18)
-- 🥇 2X KTRC Winner 
+- 🥇 2X KTRC Winner 2023 & 2024 ! 
 - 🔭 I’m currently working on MERN and NextJs 
 - 🌱 I’m currently learning TensorFlow JS
 - 👯 I’m looking to collaborate on Thrilling Projects 
