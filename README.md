@@ -1,10 +1,11 @@
 ## Hi there 👋
+
   [![MasterHead](https://i.ibb.co/93JX3gy/banner.png)](https://github.com/itsharsh18)
 
 - 🔭 I’m currently working on MERN and NextJs 
 - 🌱 I’m currently learning TensorFlow JS
 - 👯 I’m looking to collaborate on Thrilling Projects 
-- 💬 Ask me about Node ,Js , Java , Mongo ,ORM , DevOps , FullStack
+- 💬 Ask me about Node ,Js , Java , Mongo ,ORM , DevOps , FullStack 🤜🤛
 - 📫 How to reach me: itsharsh18@gmail.com 
                         +91-9109605488
 - 😄 Pronouns: He / Him
